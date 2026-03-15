@@ -22,6 +22,12 @@ This repository contains:
    	* teosinte folder: contains all 20 teosinte files (increasing, decreasing)
 	* figures folder: contains 3 figures [.png] for the visualization part of the assignment
 
+###  03_review_I_write
+* This folder contains all the reviews I write for others
+
+###  04_review_I_receive
+* This folder contains all the reviews I receive
+
 **The key to the R assignment is also at the main repository for easy finding**
 
 ## Cloning this repository for the first time
@@ -36,12 +42,13 @@ git clone https://github.com/veerayab1998/BCB546_R_assignment_VB.git
 ```
 
 ## Add your review file
+_Please add your review to the 04 folder using the command below_
 ```
-git add [yourlastname]_review.Rmd
+git add 04_review_I_receive/[yourlastname]_review.Rmd
 ```
 ## Commit with a message
 ```
-git commit -m "Add review output of R assignment from [yourlastname]"
+git commit -m "Add review output of R assignment from [yourlastname]."
 ```
 ## Push to GitHub
 ```
