@@ -37,7 +37,7 @@ git clone https://github.com/veerayab1998/BCB546_R_assignment_VB.git
 
 ## Add your review file
 ```
-git add [yourlastname]_review.Rmd.
+git add [yourlastname]_review.Rmd
 ```
 ## Commit with a message
 ```
