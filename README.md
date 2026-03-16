@@ -103,6 +103,12 @@ _do this after you push the file_
 1. Go to **my fork** on my GitHub
 2. Click **"Pull requests menu"** on this assignment repository
 3. Click **"Create Pull Request"** and add message
+4. Click **"Compare across folk"** under Compare changes
+5. Change **"head respiratory"** from veerayab1998/BCB546_R_assignment_VB to **"head respiratory:[yourusername]/BCB546_R_assignment_VB"**
+6. Click **"Create Pull Request"**
+7. Add title **"upload review"**
+8. Done
+
 Or you can email me, and I can commit it as well
 
 Thank you,
