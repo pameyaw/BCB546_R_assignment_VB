@@ -41,6 +41,31 @@ Or you can use the HTTPS URL:
 git clone https://github.com/veerayab1998/BCB546_R_assignment_VB.git
 ```
 
+# How to create your pull request and upload your review
+
+## Fork my repo on GitHub
+
+_1. Click "Fork" in the top-right corner of this repository_
+_2. Click "create a new fork."_
+_3. Name it "BCB546_R_assignment_VB"_
+
+* That creates a copy under your GitHub account, something like:
+[your_username]/BCB546_R_assignment_VB
+
+
+## Cloning my copy of your repository to your local computer
+
+```
+git clone git@github.com:[yourusername]/BCB546_R_assignment_VB.git
+```
+## Go to the cloned repository on your local computer
+```
+cd /path/to/repository/BCB546_R_assignment_VB
+```
+## Set your remote commit to your git hub repository
+```
+git remote set-url origin https://github.com/[yourusername]/R-assignment.git
+```
 ## Add your review file
 _Please add your review file to the 04 folder using the command below_
 
