@@ -1,6 +1,5 @@
 # Peer Review for Veeraya Bamrung (VB_R_assignment)
 **Reviewer:** PRINCE AMEYAW
-**Date:** March 23, 2026
 
 ---
 
